@@ -1,0 +1,55 @@
+@import "./global.scss";
+
+article {
+  width: 250px;
+  height: 250px;
+  position: relative;
+}
+
+article img {
+  object-fit: cover;
+  border-radius: 20px;
+  width: 250px;
+  height: 250px;
+  cursor: pointer;
+}
+
+.container-likes {
+  display: flex;
+  justify-content: space-between;
+  //   background-color: rgb(40, 224, 224);
+  position: absolute;
+  top: 84%;
+  width: 100%;
+  height: 40px;
+  opacity: 0.8;
+  align-items: center;
+  font-size: 12px;
+}
+
+.container-likes p {
+  color: white;
+  margin-left: 14px;
+  // margin-bottom: 8px;
+  text-shadow: 0 0 0.2em rgb(64, 64, 64);
+}
+
+.container-likes p:nth-child(1) span {
+  background-color: $color-cuaternary;
+  padding: 6px;
+  color: #bae8e8;
+  border-radius: 8px;
+}
+
+.icon-like {
+  height: auto;
+  padding-left: 2px;
+}
+
+// article:hover {
+
+//   transform: scale(1.1);
+//   cursor: pointer;
+//   z-index: 1;
+//   transition-duration: 0.5s, 0.5s;
+// }

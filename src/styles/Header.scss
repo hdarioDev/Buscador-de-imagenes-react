@@ -1,0 +1,57 @@
+@import "./global.scss";
+
+header {
+  height: 60px;
+  background-color: $color-primary-theme-dark;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 12px;
+  padding-right: 12px;
+  align-items: center;
+
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 999;
+}
+
+.light-header {
+  background-color: $color-cuaternary;
+}
+
+.dark-header {
+  background-color: $color-primary;
+}
+
+
+header div {
+  display: flex;
+  align-items: center;
+}
+
+header div p {
+  color: $color-white;
+  padding-left: 8px;
+  font-size: 24px;
+  font-weight: bold;
+  height: 30px;
+}
+
+header img {
+  height: 40px;
+  width: 40px;
+}
+
+header button {
+  height: 40px;
+  width: 40px;
+  margin-right: 20px;
+}
+
+.button-dark {
+  background-color: $color-black;
+}
+
+.button-light {
+  background-color: $color-white;
+}

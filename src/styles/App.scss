@@ -1,0 +1,51 @@
+@import "./global.scss";
+
+// $color-white: #fff;
+// $color-black: #000;
+// $color-primary: #272643;
+// $color-secondary: #e3f6f5;
+// $color-terciary: #bae8e8;
+// $color-cuaternary: #2c698d;
+// $color-suave: #eff3f6;
+
+.dark-mode {
+  background-color: #464657;
+  color: $color-terciary;
+}
+
+.light-mode {
+  background-color: $color-background-theme-ligth;
+  color: #38374b;
+}
+
+.btn-navigator-container {
+  //   background-color: yellow;
+  background-color: $color-background-theme-ligth;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.theme-dark {
+  background-color: #464657;
+}
+
+.btn-navigator-container button {
+  height: 40px;
+  width: 120px;
+  background-color: $color-white;
+  border-radius: 4px;
+  color: rgb(141, 141, 140);
+  font-size: 14px;
+  border: 1px solid $color-terciary;
+}
+
+.btn-navigator-container button:hover {
+  background-color: $color-cuaternary;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  border: none;
+}
