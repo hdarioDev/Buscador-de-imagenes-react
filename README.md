@@ -30,20 +30,12 @@ npm run build
 
 ## Screenshot  light
 
-![App Screenshot](https://github.com/hdarioDev/assets/blob/main/react-image-home-ligth.png?raw=true)
+![react-image-home](https://user-images.githubusercontent.com/63020855/187106539-25f32824-a167-4da0-aa80-9df4c587d72f.png)
+
 
 ## Screenshots dark
 
-![App Screenshot](https://github.com/hdarioDev/assets/blob/main/react-image-dark.png?raw=true)
-
-## Screenshots search
-
-![App Screenshot](https://github.com/hdarioDev/assets/blob/main/react-image-home.png?raw=true)
-
-
-## Screenshot modal
-
-![App Screenshot](https://github.com/hdarioDev/assets/blob/main/react-image-modal.png?raw=true)
+![react-image-dark](https://user-images.githubusercontent.com/63020855/187106594-33763816-5ffd-411c-8eb5-d34c87db40c6.png)
 
 ## Authors
 
