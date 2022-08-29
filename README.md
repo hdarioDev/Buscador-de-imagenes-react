@@ -30,7 +30,12 @@ npm run build
 
 ## Screenshot  light
 
+![react-image-home-ligth](https://user-images.githubusercontent.com/63020855/187106900-c6481d9e-8953-4b24-be6c-386d7d8d906d.png)
+
+
 ![react-image-home](https://user-images.githubusercontent.com/63020855/187106539-25f32824-a167-4da0-aa80-9df4c587d72f.png)
+
+![react-image-modal](https://user-images.githubusercontent.com/63020855/187106922-60a7a013-5f8d-4aa9-b34b-7b327c756943.png)
 
 
 ## Screenshots dark
